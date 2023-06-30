@@ -2,15 +2,7 @@
 
 - [Introduction](Introduction.md)
 
-## Walkthroughs
 
-- [Installing Slate](walkthroughs/01-installing-slate.md)
-- [Adding Event Handlers](walkthroughs/02-adding-event-handlers.md)
-- [Defining Custom Elements](walkthroughs/03-defining-custom-elements.md)
-- [Applying Custom Formatting](walkthroughs/04-applying-custom-formatting.md)
-- [Executing Commands](walkthroughs/05-executing-commands.md)
-- [Saving to a Database](walkthroughs/06-saving-to-a-database.md)
-- [Using the Bundled Source](walkthroughs/xx-using-the-bundled-source.md)
 
 ## Concepts
 
@@ -28,6 +20,16 @@
 - [TypeScript](concepts/12-typescript.md)
 - [Migrating](concepts/xx-migrating.md)
 
+## Walkthroughs
+
+- [Installing Slate](walkthroughs/01-installing-slate.md)
+- [Adding Event Handlers](walkthroughs/02-adding-event-handlers.md)
+- [Defining Custom Elements](walkthroughs/03-defining-custom-elements.md)
+- [Applying Custom Formatting](walkthroughs/04-applying-custom-formatting.md)
+- [Executing Commands](walkthroughs/05-executing-commands.md)
+- [Saving to a Database](walkthroughs/06-saving-to-a-database.md)
+- [Using the Bundled Source](walkthroughs/xx-using-the-bundled-source.md)
+  
 ## API
 
 - [Transforms](api/transforms.md)
